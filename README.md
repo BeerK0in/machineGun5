@@ -1,5 +1,5 @@
-# machineGun5
+# Team machineGun presents v5!
 
-WIP
+Please check the [Wiki](https://github.com/BeerK0in/machineGun5/wiki) for details!
 
-Please check the [Wiki](https://github.com/BeerK0in/machineGun5/wiki)
+Keep Calm & Gunbot!
